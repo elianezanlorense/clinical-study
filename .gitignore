@@ -1,0 +1,3 @@
+list.dirs(path = ".", full.names = TRUE, recursive = FALSE)
+getwd() - show current path
+baseline_characteristics.docx
